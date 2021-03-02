@@ -15,8 +15,8 @@ simply download the file and double click. Your mac will ask you if you wish to 
 
 #### spotify_link.txt
 1. download the spotify_link.txt file
-2. open it with asny editor
-3. paste the spotify URL into the file into it (only 1 per disk)
+2. open it with any editor
+3. paste the spotify URL into the file (only 1 per disk)
 4. save the file to your hard drive
 
 #### on the disk
