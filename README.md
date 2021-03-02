@@ -22,8 +22,7 @@ simply download the file and double click. Your mac will ask you if you wish to 
 #### on the disk
 1. connect the e.g. Floppy Disk drive to your Mac
 2. insert a floppy disk (or USB drive)
-3. copy your spotify_liunk.txt onto the floppy disk
+3. copy your spotify_link.txt onto the floppy disk
 4. rename the floppy disk to "FLOPPY"
 
-=> if everything was correct, spotify should now open and play the album :) ENJOY!
-
+=> if everything was correct, Spotify should now open and play the album :) ENJOY!
