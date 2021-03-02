@@ -1,5 +1,5 @@
 # Floppify
-An automator script that creates a floppy based record collection in Spotify by Rominio
+An automator script that creates a floppy based record collection in Spotify
 
 ### HOW IT WORKS
 Floppify is simply a script created with Automator. it watches the folder /Volumes of your Mac for a new drive called "FLOPPY" and if found, opens the spotify_link.txt file on it to copy the spotifyx URL into a variable which is than used to open the respective album/song/playlist.
