@@ -25,5 +25,5 @@ simply download the file and double click. Your mac will ask you if you wish to 
 3. copy your spotify_liunk.txt onto the floppy disk
 4. rename the floppy disk to "FLOPPY"
 
-=> if everything was corerct, spotify should now open and play the album :) ENJOY!
+=> if everything was correct, spotify should now open and play the album :) ENJOY!
 
